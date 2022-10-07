@@ -1,0 +1,18 @@
+{
+  "name": "sss22-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "แอปหวย178✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"แอปหวย178",
+"แทงหวย24ชั่วโมง",
+"ยี่กี lottovip",
+"เว็บหวยยี่กีออนไลน์",
+"lottovip สมัครสมาชิก"
+],
+  "repository": "https://github.com/setteebet/sss22-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
